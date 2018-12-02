@@ -31,7 +31,7 @@ Process to run the Project:
     
 **Step 2**:
 
-    Run *Main.py*
+    Run Main.py
 
     
     
